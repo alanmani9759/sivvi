@@ -39,6 +39,6 @@ public class Act {
 
 	@Test(retryAnalyzer = RetryAnalyzer.class)
 	public static void tc_2() {
-		System.out.println("nigga");
+		System.out.println("nigga sing");
 	}
 }
